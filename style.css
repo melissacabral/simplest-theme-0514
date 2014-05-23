@@ -1,0 +1,12 @@
+/*
+Theme Name: Awesome Theme
+Author: Melissa Cabral
+Author URI: http://wordpress.melissacabral.com
+Description: A starter theme for learning
+Version: 1.0
+*/
+
+body{
+	background-color:#eee;
+	font-family: sans-serif;
+}
